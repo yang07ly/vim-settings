@@ -1,7 +1,8 @@
 set number
 
 syntax enable
-colorscheme monokai
+colorscheme one
+set background=light
 
 filetype plugin indent on
 set expandtab
